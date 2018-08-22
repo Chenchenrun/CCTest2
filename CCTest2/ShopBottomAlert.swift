@@ -1,5 +1,5 @@
 
 
-class CCTest2 {
-//    let node
+open class CCTest2: UIView {
+    
 }
